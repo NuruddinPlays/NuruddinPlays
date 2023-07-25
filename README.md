@@ -2,7 +2,7 @@
 
 # It's me, NuruddinPlays! (it's he/him)
 
-#### I'm just simply a Minecraft player and YouTuber from Malaysia who sometimes uses GitHub, and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi), mostly via [Crowdin](crowdin.com/profile/NuruddinPlays)</p>
+#### I'm just simply a Minecraft player and YouTuber from Malaysia who sometimes uses GitHub, and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi), mostly via [Crowdin](https://crowdin.com/profile/NuruddinPlays)</p>
 ##### Don't expect much stuff here for now ;)</p></p>
 
 ##
