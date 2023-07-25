@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### I'm just simply a Minecraft player and YouTuber who sometimes uses GitHub
+##### Don't expect much stuff here ;)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCv4BSZ_RImSLFct7XLxZlnA?style=plastic&logo=youtube&logoColor=red&labelColor=green&color=yellow&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCv4BSZ_RImSLFct7XLxZlnA)
+
+
 <!--
 **NuruddinPlays/NuruddinPlays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
