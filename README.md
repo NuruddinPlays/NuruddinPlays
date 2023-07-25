@@ -2,8 +2,8 @@
 
 # It's me, NuruddinPlays! (it's he/him)
 
-#### I'm just simply a Minecraft player and YouTuber who sometimes uses GitHub and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi)</p>
-##### Don't expect much stuff here ;)</p></p>
+#### I'm just simply a Minecraft player and YouTuber from Malaysia who sometimes uses GitHub, and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi), mostly via [Crowdin](crowdin.com/profile/NuruddinPlays)</p>
+##### Don't expect much stuff here for now ;)</p></p>
 
 ##
 ### So, here is my [YouTube channel!](https://www.youtube.com/channel/UCv4BSZ_RImSLFct7XLxZlnA)</p>
@@ -14,7 +14,7 @@
 
 ## I'm also the owner of the [Minecraft: Edisi Melayu](https://bit.ly/LamanWebMCEM) project, a collection project to collect and create many Malay-themed resource packs for Minecraft: Java Edition and Minecraft: Bedrock Edition (if possible)
 ![Static Badge](https://img.shields.io/badge/%20-Minecraft%3A%20Edisi%20Melayu-darkgreen?style=for-the-badge&logo=minecraft)</p>
-#### (also has a [GitHub organization](https://github.com/Minecraft-EdisiMelayu) page!)
+#### (there is also a [GitHub organization](https://github.com/Minecraft-EdisiMelayu) page for it!)
 
 ##
 
