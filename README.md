@@ -14,7 +14,7 @@
 ---
 
 ## I'm also the owner of the Minecraft: Edisi Melayu project, a collection project to collect and create many Malay-themed resource packs for Minecraft: Java Edition and Minecraft: Bedrock Edition (if possible)
-[![Static Badge](https://imgur.com/mgY7uFr.png)](https://bit.ly/LamanWebMCEM)</p>
+[![Static Badge](https://imgur.com/cHpL4jz.png)](https://bit.ly/LamanWebMCEM)</p>
 #### (there is also a [GitHub organization](https://github.com/Minecraft-EdisiMelayu) page for it!)
 
 ---
