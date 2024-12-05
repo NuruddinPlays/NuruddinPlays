@@ -1,8 +1,8 @@
-### Asalamualaikum and hi! 👋
+### Assalamualaikum and hi! 👋
 
 # It's me, NuruddinPlays! (it's he/him)
 
-#### I'm just simply a Minecraft player and YouTuber from Malaysia who sometimes uses GitHub, and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi), mostly via [Crowdin](https://crowdin.com/profile/NuruddinPlays)</p>
+#### I'm simply just a Minecraft player and YouTuber from Malaysia who sometimes uses GitHub, and also translates many Minecraft-related stuff into Malay (both Rumi and Jawi), mostly via [Crowdin](https://crowdin.com/profile/NuruddinPlays)</p>
 ##### Don't expect much stuff here for now ;)</p></p>
 
 ---
@@ -13,16 +13,16 @@
 
 ---
 
-## I'm also the owner of the Minecraft: Edisi Melayu project, a collection project to collect and create many Malay-themed resource packs for Minecraft: Java Edition and Minecraft: Bedrock Edition (if possible)
+## I'm also the owner of the Minecraft: Edisi Melayu project, a collection project to collect and create many Malay-themed resource packs for Minecraft: Java Edition and Minecraft: Bedrock Edition (whenever possible)
 [![Static Badge](https://imgur.com/cHpL4jz.png)](https://bit.ly/LamanWebMCEM)</p>
 #### (there is also a [GitHub organization](https://github.com/Minecraft-EdisiMelayu) page for it!)
 
 ---
 
-##### I'm also a Classic Doomer, you can check my other GitHub profile [here!](https://github.com/NuruTheDoomer)
+##### I'm also a Classic Doom player, you can check my other GitHub profile [here!](https://github.com/NuruTheDoomer)
 
 ---
 
 ### If you want to contact me, just message me on discord 
 ![](https://dcbadge.limes.pink/api/shield/559261642559324164)
-##### (don't worry about the do not disturb status 😉)
+##### (don't worry about the do not disturb status, just message me and I might reply 😉)
